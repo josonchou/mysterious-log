@@ -1,0 +1,33 @@
+scheme: Pisces
+
+# 菜单配置
+menu: 
+  home: /
+  # 归档页
+  archives: /archives
+  # 关于页面 
+  about: /about
+  # 分类页 
+  categories: /categories
+  # 标签页 
+  tags: /tags
+  # 公益 404 
+  commonweal: /404.html
+
+# 菜单图标
+menu_icons:
+  enable: true
+  # Icon Mapping.
+  home: home
+  about: user
+  categories: th
+  tags: tags
+  archives: archive
+  commonweal: heartbeat
+
+sidebar:
+  position: right
+  display: always
+
+since: 2013
+
