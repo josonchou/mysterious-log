@@ -1,0 +1,20 @@
+name: tg_prj
+title: Tg - 天宫开悟
+subtitle: 每个人的独立博客 | Designed by xaoxuu
+tags: Init
+icon: /assets/logo.jpeg
+cover: /assets/logo.jpeg
+coverpage: true # 默认是 true
+description: Stellar 是一个内置文档系统的简约商务风 Hexo 主题，支持丰富的标签和动态数据组件。
+search:
+  filter: /wiki/tg_prj/
+  placeholder: 在 tg_prj 中搜索...
+leftbar: 
+  - tree
+  - timeline_stellar_releases
+  - related
+base_dir: /wiki/tg_prj/
+tree:
+  '快速开始':
+    - index
+    - example
